@@ -1,0 +1,6 @@
+{
+  "desc": "Joga uma moeda para o alto (Cara ou Coroa)",
+  "flipping": "Jogando a moeda...",
+  "heads": "CARA",
+  "tails": "COROA"
+}

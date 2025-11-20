@@ -1,0 +1,6 @@
+{
+  "name": "Coin Toss",
+  "commandName": "coin",
+  "description": "Joga uma moeda para decidir a sorte",
+  "main": "index.js"
+}
