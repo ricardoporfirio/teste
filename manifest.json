@@ -2,5 +2,6 @@
   "name": "Coin Toss",
   "commandName": "coin",
   "description": "Joga uma moeda para decidir a sorte",
-  "main": "index.js"
+  "main": "index.js",
+  "manifest":"https://github.com/ricardoporfirio/teste/archive/refs/tags/testeteste.zip"
 }
